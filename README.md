@@ -6,7 +6,7 @@ About me
 * Storyteller @ Fedora (APAC)
     - feel free to let me know if you did something Fedora related, I would love to bring it in attention of community.
     - please let me know if you have used Fedora APAC budget ;)
-* Wrangler at Fedora Classroom
+* Wrangler @ Fedora Classroom
     - If you want to share your expertise/knowledge with people, you know who to contact!
 * [Contributor](https://badges.fedoraproject.org/user/siddharthvipul1) @ Fedora Project
     - Ping me if you want to know how I started or what have I been up to!
