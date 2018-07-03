@@ -2,7 +2,14 @@ About me
 ===
 
 * [Ambassador](https://fedoraproject.org/wiki/Ambassadors) @ Fedora Project
+    - feel free to reach out if you want to know more about Fedora project.
+* Storyteller @ Fedora (APAC)
+    - feel free to let me know if you did something Fedora related, I would love to bring it in attention of community.
+    - please let me know if you have used Fedora APAC budget ;)
+* Wrangler at Fedora Classroom
+    - If you want to share your expertise/knowledge with people, you know who to contact!
 * [Contributor](https://badges.fedoraproject.org/user/siddharthvipul1) @ Fedora Project
+    - Ping me if you want to know how I started or what have I been up to!
 * [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast
 * [Linux](https://www.linux.org/) evangelist
 * Self declared developer and command line hero
@@ -16,7 +23,7 @@ About me
 * Telegram: siddharthvipul
 * Email: 
   * siddharthvipul1 [at] gmail.com (personal) 
-  * vipul [at] redhat.com (work)
+  * vipul [at] redh@t.com (work)
 * Country: India
 * Region: Bengaluru (follows UTC + 5:30)
 * Languages: English, Hindi & French\*
