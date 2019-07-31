@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>vsiddhar.me/2019/gci_mentors_summit/</loc>
+      <loc>vipul.dev/2019/gci_mentors_summit/</loc>
       
       <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       
@@ -12,19 +12,7 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/posts/</loc>
-      
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>vsiddhar.me/</loc>
+      <loc>vipul.dev/posts/</loc>
       
       <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       
@@ -36,7 +24,19 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/2019/fedora_30_release_party/</loc>
+      <loc>vipul.dev/</loc>
+      
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>vipul.dev/2019/fedora_30_release_party/</loc>
       
       <lastmod>2019-06-21T00:00:00+00:00</lastmod>
       
@@ -46,7 +46,7 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/2018/flock_blog/</loc>
+      <loc>vipul.dev/2018/flock_blog/</loc>
       
       <lastmod>2018-09-05T00:00:00+00:00</lastmod>
       
@@ -56,7 +56,7 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/2018/websiteinfo/</loc>
+      <loc>vipul.dev/2018/websiteinfo/</loc>
       
       <lastmod>2018-09-04T00:00:00+00:00</lastmod>
       
@@ -66,7 +66,7 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/404/</loc>
+      <loc>vipul.dev/404/</loc>
       
       
       
@@ -76,7 +76,7 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/categories/</loc>
+      <loc>vipul.dev/categories/</loc>
       
       
       
@@ -86,7 +86,7 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/contact/</loc>
+      <loc>vipul.dev/contact/</loc>
       
       
       
@@ -94,7 +94,7 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/tags/</loc>
+      <loc>vipul.dev/tags/</loc>
       
       
       
@@ -104,7 +104,7 @@
     </url>
   
     <url>
-      <loc>vsiddhar.me/about/</loc>
+      <loc>vipul.dev/about/</loc>
       
       
       
