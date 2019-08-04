@@ -1,114 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-      <loc>vipul.dev/2019/gci_mentors_summit.html</loc>
-      
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/posts/gci_mentors_summit/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-      <loc>vipul.dev/posts.html</loc>
-      
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/posts/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>vipul.dev/</loc>
-      
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>vipul.dev/2019/fedora_30_release_party.html</loc>
-      
-      <lastmod>2019-06-21T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/posts/fedora_30_release_party/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-      <loc>vipul.dev/2018/flock_blog.html</loc>
-      
-      <lastmod>2018-09-05T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/posts/flock_blog/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-      <loc>vipul.dev/2018/websiteinfo.html</loc>
-      
-      <lastmod>2018-09-04T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/posts/websiteinfo/</loc>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-      <loc>vipul.dev/404.html</loc>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/404/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>vipul.dev/categories.html</loc>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/contact/</loc>
+  </url>
   
-    <url>
-      <loc>vipul.dev/contact.html</loc>
-      
-      
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/tags/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>vipul.dev/tags.html</loc>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>vipul.dev/about.html</loc>
-      
-      
-      
-      
-    </url>
+  <url>
+    <loc>vipul.dev/about/</loc>
+  </url>
   
 </urlset>
