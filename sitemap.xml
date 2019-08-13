@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://vsiddhar.me/2019/gci_mentors_summit/</loc>
+      <loc>https://vipul.dev/2019/gci_mentors_summit/</loc>
       
       <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       
@@ -12,19 +12,7 @@
     </url>
   
     <url>
-      <loc>http://vsiddhar.me/posts/</loc>
-      
-      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://vsiddhar.me/</loc>
+      <loc>https://vipul.dev/posts/</loc>
       
       <lastmod>2019-06-28T00:00:00+00:00</lastmod>
       
@@ -36,7 +24,19 @@
     </url>
   
     <url>
-      <loc>http://vsiddhar.me/2019/fedora_30_release_party/</loc>
+      <loc>https://vipul.dev/</loc>
+      
+      <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://vipul.dev/2019/fedora_30_release_party/</loc>
       
       <lastmod>2019-06-21T00:00:00+00:00</lastmod>
       
@@ -46,7 +46,7 @@
     </url>
   
     <url>
-      <loc>http://vsiddhar.me/2018/flock_blog/</loc>
+      <loc>https://vipul.dev/2018/flock_blog/</loc>
       
       <lastmod>2018-09-05T00:00:00+00:00</lastmod>
       
@@ -56,7 +56,7 @@
     </url>
   
     <url>
-      <loc>http://vsiddhar.me/2018/websiteinfo/</loc>
+      <loc>https://vipul.dev/2018/websiteinfo/</loc>
       
       <lastmod>2018-09-04T00:00:00+00:00</lastmod>
       
@@ -66,7 +66,7 @@
     </url>
   
     <url>
-      <loc>http://vsiddhar.me/404/</loc>
+      <loc>https://vipul.dev/categories/</loc>
       
       
       
@@ -76,7 +76,15 @@
     </url>
   
     <url>
-      <loc>http://vsiddhar.me/categories/</loc>
+      <loc>https://vipul.dev/contact/</loc>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://vipul.dev/tags/</loc>
       
       
       
@@ -86,25 +94,7 @@
     </url>
   
     <url>
-      <loc>http://vsiddhar.me/contact/</loc>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://vsiddhar.me/tags/</loc>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://vsiddhar.me/about/</loc>
+      <loc>https://vipul.dev/about/</loc>
       
       
       

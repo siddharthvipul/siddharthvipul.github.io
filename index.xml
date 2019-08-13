@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SiddharthVipul on SiddharthVipul</title>
-    <link>http://vsiddhar.me/</link>
+    <link>https://vipul.dev/</link>
     <description>Recent content in SiddharthVipul on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,10 +10,10 @@
     
     <item>
       <title>GCI mentor&#39;s summit @ Google headquarters</title>
-      <link>http://vsiddhar.me/2019/gci_mentors_summit/</link>
+      <link>https://vipul.dev/2019/gci_mentors_summit/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/2019/gci_mentors_summit/</guid>
+      <guid>https://vipul.dev/2019/gci_mentors_summit/</guid>
       <description>
 
 &lt;h1 id=&#34;context&#34;&gt;Context&lt;/h1&gt;
@@ -120,10 +120,10 @@ purchase merchandise of their choice)&lt;/li&gt;
     
     <item>
       <title>Fedora 30 Release Party Event Report</title>
-      <link>http://vsiddhar.me/2019/fedora_30_release_party/</link>
+      <link>https://vipul.dev/2019/fedora_30_release_party/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/2019/fedora_30_release_party/</guid>
+      <guid>https://vipul.dev/2019/fedora_30_release_party/</guid>
       <description>
 
 &lt;h1 id=&#34;context&#34;&gt;Context&lt;/h1&gt;
@@ -174,10 +174,10 @@ us the venue and snacks.&lt;/p&gt;
     
     <item>
       <title>Flock2018</title>
-      <link>http://vsiddhar.me/2018/flock_blog/</link>
+      <link>https://vipul.dev/2018/flock_blog/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/2018/flock_blog/</guid>
+      <guid>https://vipul.dev/2018/flock_blog/</guid>
       <description>
 
 &lt;h1 id=&#34;wow&#34;&gt;WOW!&lt;/h1&gt;
@@ -270,10 +270,10 @@ forward to attend more of such events.&lt;/p&gt;
     
     <item>
       <title>websiteInfo</title>
-      <link>http://vsiddhar.me/2018/websiteinfo/</link>
+      <link>https://vipul.dev/2018/websiteinfo/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/2018/websiteinfo/</guid>
+      <guid>https://vipul.dev/2018/websiteinfo/</guid>
       <description>
 
 &lt;h1 id=&#34;let-s-discuss-vsiddhar-me&#34;&gt;Let&amp;rsquo;s discuss vsiddhar.me&lt;/h1&gt;
@@ -302,101 +302,11 @@ might just keep it as my diary (open).&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
-      <link>http://vsiddhar.me/404/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://vsiddhar.me/404/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
-
-  &lt;head&gt;
-    &lt;meta charset=&#34;utf-8&#34;&gt;
-    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
-
-    &lt;meta name=&#34;author&#34; content=&#34;SiddharthVipul&#34;&gt;
-    &lt;meta name=&#34;description&#34; content=&#34;Vipul&amp;#39;s personal website&#34;&gt;
-    &lt;meta name=&#34;keywords&#34; content=&#34;Blog, Developer, Personal&#34;&gt;
-
-    &lt;base href=&#34;http://vsiddhar.me&#34;&gt;
-    &lt;title&gt;SiddharthVipul&lt;/title&gt;
-
-    &lt;link rel=&#34;canonical&#34; href=&#34;http://vsiddhar.me/404.html&#34;&gt;
-
- &lt;link  rel=&#34;stylesheet&#34; href=&#34;https://fonts.googleapis.com/css?family=Fira+Mono:400,700&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.rawgit.com/necolas/normalize.css/master/normalize.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://vsiddhar.me/css/style.min.css&#34;&gt;
-
-    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;http://vsiddhar.me/images/favicon-32x32.png&#34; sizes=&#34;32x32&#34;&gt;
-    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;http://vsiddhar.me/images/favicon-16x16.png&#34; sizes=&#34;16x16&#34;&gt;
-
-    
-
-    &lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.55.6&#34; /&gt;
-  &lt;/head&gt;
-
-  &lt;body&gt;
-    &lt;main class=&#34;wrapper&#34;&gt;
-      &lt;nav class=&#34;navigation&#34;&gt;
-  &lt;section class=&#34;container&#34;&gt;
-    &lt;a class=&#34;navigation-title&#34; href=&#34;http://vsiddhar.me/&#34;&gt;
-      SiddharthVipul
-    &lt;/a&gt;
-    
-    &lt;ul class=&#34;navigation-list float-right&#34;&gt;
-      
-      &lt;li class=&#34;navigation-item&#34;&gt;
-        &lt;a class=&#34;navigation-link&#34; href=&#34;http://vsiddhar.me/gpg.txt&#34;&gt;gpg.pub&lt;/a&gt;
-      &lt;/li&gt;
-      
-      &lt;li class=&#34;navigation-item&#34;&gt;
-        &lt;a class=&#34;navigation-link&#34; href=&#34;http://vsiddhar.me/about/&#34;&gt;About&lt;/a&gt;
-      &lt;/li&gt;
-      
-    &lt;/ul&gt;
-    
-  &lt;/section&gt;
-&lt;/nav&gt;
-
-
-      &lt;div class=&#34;content&#34;&gt;
-        
-  &lt;section class=&#34;container centered&#34;&gt;
-  &lt;div class=&#34;error&#34;&gt;
-    &lt;h1&gt;:|&lt;/h1&gt;
-    &lt;br/&gt;
-    &lt;h1&gt;404&lt;/h1&gt;
-    &lt;h2&gt;Page Not Found&lt;/h2&gt;
-    &lt;p&gt;&lt;br /&gt;Ever feel like you at the wrong place?&lt;br/&gt;You can head back to &lt;a href=&#34;http://vsiddhar.me&#34;&gt;homepage&lt;/a&gt;.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-
-      &lt;/div&gt;
-
-      &lt;footer class=&#34;footer&#34;&gt;
-  &lt;section class=&#34;container&#34;&gt;
-    
-    Powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.
-  &lt;/section&gt;
-&lt;/footer&gt;
-
-    &lt;/main&gt;
-
-    
-
-  &lt;/body&gt;
-
-&lt;/html&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact &amp; Social Network accounts</title>
-      <link>http://vsiddhar.me/contact/</link>
+      <link>https://vipul.dev/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/contact/</guid>
+      <guid>https://vipul.dev/contact/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;IRC Nick:
 
@@ -432,10 +342,10 @@ might just keep it as my diary (open).&lt;/p&gt;
     
     <item>
       <title>Vipul is</title>
-      <link>http://vsiddhar.me/about/</link>
+      <link>https://vipul.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/about/</guid>
+      <guid>https://vipul.dev/about/</guid>
       <description>
 
 &lt;ul&gt;
@@ -452,7 +362,7 @@ might just keep it as my diary (open).&lt;/p&gt;
 &lt;h2 id=&#34;contact-social-network-accounts&#34;&gt;Contact &amp;amp; Social Network accounts&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://vsiddhar.me/contact/&#34;&gt;Contact Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vipul.dev/contact/&#34;&gt;Contact Page&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
