@@ -5,8 +5,172 @@
     <description>Recent content in SiddharthVipul on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flock to Fedora 2019</title>
+      <link>https://vipul.dev/2019/flock_to_fedora_2019/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vipul.dev/2019/flock_to_fedora_2019/</guid>
+      <description>
+
+&lt;h1 id=&#34;context&#34;&gt;Context&lt;/h1&gt;
+
+&lt;p&gt;Last year I attended &lt;a href=&#34;https://flocktofedora.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Flock to Fedora&lt;/a&gt; for the First time and it was one of the
+best events I had ever been to. After attending DevConfs, FOSDEM etc. Flock is
+still my favorite event to attend. Fedora 2019 was no less of an experience.&lt;/p&gt;
+
+&lt;p&gt;Flock to Fedora is an annual conference for Fedora contributors. Flock follows
+the tradition to organize the event at a different location every year. This
+year was no different.&lt;/p&gt;
+
+&lt;h3 id=&#34;where&#34;&gt;Where?&lt;/h3&gt;
+
+&lt;p&gt;Danubius Hotel Helia
+Budapest, Hungary&lt;/p&gt;
+
+&lt;h3 id=&#34;when&#34;&gt;When?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;August 8th&lt;/strong&gt; to &lt;strong&gt;August 11th&lt;/strong&gt;
+I had 2 main purposes to be there.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Represent CentOS in Flock&lt;/li&gt;
+&lt;li&gt;Support my GSoC intern while she presents her work in the Summer Coding
+Projects Showcase (Which I organized along with other mentors of the programs)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;centos-presence-in-flock&#34;&gt;CentOS presence in Flock&lt;/h2&gt;
+
+&lt;p&gt;We got a booth right beside Registration booth and right in the hallway in
+front of the main room (Helia).
+The Hallway was a very good feature for this Flock. every room was connected to the
+same hallway making the communication very easy. When I was not behind the
+booth, I was speaking to amazing people, learning what they were doing or
+attending some talk.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;
+
+&lt;p&gt;As usual, Flock kicked off with &amp;lsquo;The state of Fedora&amp;rsquo; by the Fedora Project Leader &lt;a href=&#34;https://twitter.com/mattdm/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Matthew Miller&lt;/a&gt; The
+This was again, a brilliant representation of everything happening in Fedora
+world.
+There was a second another very interesting keynote &amp;lsquo;It&amp;rsquo;s Probably fine&amp;rsquo; by Cate Huston.
+This was hilarous and relatable. Here is a small quote from her
+keynote&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Engineers say they hate the process. But I think engineers secretly love process. It&amp;rsquo;s just that when it works, they call it culture.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This day, most of the time I was behind CentOS booth. I was not surprised to
+see not a lot of people asking question but just discussing (since most of the people already knew
+what it is). Well, this is not entirely true, the one question that has been
+lurking around since DevConf India was &amp;lsquo;When is CentOS 8 releasing?&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;A few other talks I attended this day was&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; &amp;lsquo;Facebook Loves Fedora (and Chef)&amp;rsquo; by Michel Alexandre Salim and Joseph Chilcote:
+Apart from other interesting facts and things, one that stood out the most was
+how Fedora has overtaken Ubuntu usage in Facebook. Here is a photo from that
+&lt;a href=&#34;https://twitter.com/mattdm/status/1159394129702469632/photo/1&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;slide&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;lsquo;Improving Packaging Experience with Automation&amp;rsquo; by &lt;a href=&#34;https://twitter.com/Det_Conan_Kudo&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Neal Gompa&lt;/a&gt; and &lt;a href=&#34;https://fedoraproject.org/wiki/User:Igor&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Igor Gnatenko&lt;/a&gt;:
+A lot of ideas on how things can be better. This, by the end, ended up in a
+discussion on how to make things better in the packaging world!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;lsquo;Fedora IoT: who, what, when, where, why, how?&amp;rsquo; by &lt;a href=&#34;https://twitter.com/nullr0ute&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Peter Robinson&lt;/a&gt;:
+All about IoT and $the_title_speaks_it_all&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;lsquo;Slideshow karaoke&amp;rsquo; by Adam Samalik:
+Props to Adam for coming to come up with interesting slides in a hurry. This
+was moved 2 days early and he wasn&amp;rsquo;t very ready with the slides.
+Tom &amp;lsquo;spot&amp;rsquo; Callaway&amp;rsquo;s karaoke was &lt;em&gt;the&lt;/em&gt; best. Waiting for the recordings for
+this one.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;day-2&#34;&gt;Day 2&lt;/h2&gt;
+
+&lt;p&gt;The second day, &lt;a href=&#34;https://www.linkedin.com/in/denise-dumas-591931/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Denise Dumas&lt;/a&gt; (VP of Platform Engineering at Red Hat) presented
+the relationship of Fedora, Red Hat and our new overlord IBM. Since the
+acquisition, there are a lot of talks around the community if the Fedora
+Project will be affected by it. Denise was there to clear all the doubts.
+A line from her slide that was kind of a sum up&amp;rsquo;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you want to go fast, go alone. If you want to go far, go together.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;After this, I waited in the same room for &amp;lsquo;RHEL vs Fedora: Where 8 Diverged and
+Why&amp;rsquo; by &lt;a href=&#34;https://fedoraproject.org/wiki/User:Bookwar&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Aleksandra Fedorova&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/BConoboy&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Brendan Conoboy&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/stickster&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Paul Frields&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After these 2 talks, I went back to the booth to answer a few more questions.
+Again, there were not a lot of people asking questions, but had a lot of people
+discussing things around CentOS. Thanks to &lt;a href=&#34;https://twitter.com/Arrfab&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Fabian Arrotin&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/bstinsonmhk&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Brian
+Stinson&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/BitIntegrity&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Jim Perrin&lt;/a&gt; who were around and I directed some of the
+questions I was not eligible to answer :D.&lt;/p&gt;
+
+&lt;p&gt;Post lunch, I attended &amp;lsquo;Gating rawhide packages: things just got real!&amp;rsquo; by
+&lt;a href=&#34;https://fedoraproject.org/wiki/User:Pingou&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Pierre-Yves Chibon&lt;/a&gt;. Since for last couple of days I have been
+particularly excited about Fedora CI and Rawhide Gating, I got to see a lot of
+things happening behind the scene. Pingou presented things that were already
+and how they did it.
+Then I headed to attend &amp;lsquo;Open Source Agile in CPE&amp;rsquo; by &lt;a href=&#34;://twitter.com/leighgriffin&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Leigh Griffin&lt;/a&gt; and
+Pierre-Yves Chibon. There was not a lot to see here but I am glad I
+attended it. It was more of a revision on why and how we are doing the changes
+in our team. It was refreshing. After this, following my excitement for CI, I
+attended &lt;a href=&#34;#&#34;&gt;Dominik Perpeet&lt;/a&gt;&amp;rsquo;s Fedora CI Objective: present and future. This
+was again a lot of learning and I got an overview of Fedora CI efforts. I spoke to
+Dominik after the talk and he explained some of the places a new person can
+start helping them. I am particularly interested in distro-wide tests.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-3&#34;&gt;Day 3&lt;/h2&gt;
+
+&lt;p&gt;This day was the reason 2 of my Flock visit.
+&amp;lsquo;Fedora Summer Coding 2019 Project showcase and Meetup&amp;rsquo;. I was one of the
+organizers for this event. This year, GSoC and Outreacy interns did an amazing
+job. Since I was the slides master, I got to learn a lot about all their
+projects. We started with &lt;a href=&#34;https://twitter.com/jflory7&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Justin Flory&lt;/a&gt; introducing the event and he
+invited &lt;a href=&#34;https://twitter.com/openlabbott&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Laura Abbott&lt;/a&gt; to introduce Outreachy. &lt;a href=&#34;https://twitter.com/openlabbott&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Sumantro Mukherjee&lt;/a&gt;
+introduced GCI and GSoC. After a few interns presented their work, we had a
+mentor&amp;rsquo;s pannel of brilliant folks from all the field.&lt;/p&gt;
+
+&lt;p&gt;We had&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bee Padalkar&lt;/li&gt;
+&lt;li&gt;Clement Verna&lt;/li&gt;
+&lt;li&gt;Laura Abbott&lt;/li&gt;
+&lt;li&gt;Leigh Griffin&lt;/li&gt;
+&lt;li&gt;Stephen Gallagher&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;in the panel. I will link the recording as soon as it&amp;rsquo;s out (it&amp;rsquo;s a must-watch
+for aspiring summer coding students)
+After the panelists, we had a few more presentations. I presented my intern&amp;rsquo;s
+work since she couldn&amp;rsquo;t join us (Schengen visas, urgh). I have presented quite
+a few talks in multiple places but I have never been so scared/nervous. Maybe
+since this was not my work? well, it&amp;rsquo;s over. The session was over right before
+lunchtime. Post lunch I got to learn a few things needed in badges (since I
+joined post-lunch session of badges workshop). Then I was briefly part of
+mindshare workshop. This day was over when I was done with my talk.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-4&#34;&gt;Day 4&lt;/h3&gt;
+
+&lt;p&gt;Somehow I thought the CPE(my team at Red Hat) hackfest was about to start at 10
+am and not 9. I killed an hour somehow lurking around and reached to the room
+an hour LATE!! Since I have been part of all the email threads, It didn&amp;rsquo;t take
+a lot to catch up. I quickly fired up a google doc and started taking notes.
+We wrote up all the backlogs CPE had and start discussing some of the important
+things. Tim Flink for Fedora QA was in the room so we ended up discussing a lot
+around QA apps and Taskotron retiring. Followed by this, brainstorming on
+Monitoring and Metrics. We also got a chance to discuss FAS/AAA replacement
+(Possibly Amazon&amp;rsquo;s cognito? Rick Elrod is coming up with a PoC to see if this
+fits our requirement.)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GCI mentor&#39;s summit @ Google headquarters</title>

@@ -6,10 +6,20 @@
     <description>Recent content in Posts on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vipul.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flock to Fedora 2019</title>
+      <link>https://vipul.dev/2019/flock_to_fedora_2019/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vipul.dev/2019/flock_to_fedora_2019/</guid>
+      <description>Context Last year I attended Flock to Fedora for the First time and it was one of the best events I had ever been to. After attending DevConfs, FOSDEM etc. Flock is still my favorite event to attend. Fedora 2019 was no less of an experience.
+Flock to Fedora is an annual conference for Fedora contributors. Flock follows the tradition to organize the event at a different location every year.</description>
+    </item>
     
     <item>
       <title>GCI mentor&#39;s summit @ Google headquarters</title>
