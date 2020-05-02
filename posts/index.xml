@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SiddharthVipul</title>
@@ -18,7 +18,7 @@
       
       <guid>https://vipul.dev/2019/flock_to_fedora_2019/</guid>
       <description>Context Last year I attended Flock to Fedora for the First time and it was one of the best events I had ever been to. After attending DevConfs, FOSDEM etc. Flock is still my favorite event to attend. Fedora 2019 was no less of an experience.
-Flock to Fedora is an annual conference for Fedora contributors. Flock follows the tradition to organize the event at a different location every year.</description>
+Flock to Fedora is an annual conference for Fedora contributors. Flock follows the tradition to organize the event at a different location every year. This year was no different.</description>
     </item>
     
     <item>
@@ -65,7 +65,7 @@ Flock to Fedora is an annual conference for Fedora contributors. Flock follows t
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://vipul.dev/2018/websiteinfo/</guid>
-      <description>Let&amp;rsquo;s discuss vsiddhar.me I have been suggested multiple time to manage a blog, share my stories, events and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now. I have decided to manage this colorless website (Hugo+Coder, as it requires ~no effort). If I am alive and in right sense, I will be putting at least one post every week month.</description>
+      <description>Let&amp;rsquo;s discuss vsiddhar.me I have been suggested multiple time to manage a blog, share my stories, events and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now. I have decided to manage this colorless website (Hugo+Coder, as it requires ~no effort). If I am alive and in right sense, I will be putting at least one post every weekmonth.</description>
     </item>
     
   </channel>
