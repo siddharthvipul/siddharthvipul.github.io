@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://vipul.dev/2019/flock_to_fedora_2019/</loc>
+      <loc>https://vipul.dev/2020/ocp-migration/</loc>
       
-      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+      <lastmod>2020-07-08T00:00:00+00:00</lastmod>
       
       
       
@@ -14,7 +14,7 @@
     <url>
       <loc>https://vipul.dev/posts/</loc>
       
-      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+      <lastmod>2020-07-08T00:00:00+00:00</lastmod>
       
       
       
@@ -23,6 +23,16 @@
   
     <url>
       <loc>https://vipul.dev/</loc>
+      
+      <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://vipul.dev/2019/flock_to_fedora_2019/</loc>
       
       <lastmod>2019-08-15T00:00:00+00:00</lastmod>
       
@@ -75,14 +85,6 @@
       <loc>https://vipul.dev/2018/websiteinfo/</loc>
       
       <lastmod>2018-09-04T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://vipul.dev/1/common_oss_licenses/</loc>
       
       
       

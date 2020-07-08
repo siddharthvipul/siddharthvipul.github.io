@@ -6,10 +6,21 @@
     <description>Recent content in Posts on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vipul.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Migrating jobs to new OCP4 cluster</title>
+      <link>https://vipul.dev/2020/ocp-migration/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vipul.dev/2020/ocp-migration/</guid>
+      <description>Action If you are currently using apps.ci.centos.org (OCP 3.6), please contact us so that we can create a namespace for you in the new OCP 4.4 cluster for you to start migrating your jobs.
+If your own a namespace on apps.ci.centos.org There shouldn&amp;rsquo;t be a lot of changes for you if you have a project in our older openshift deployment (OCP 3.6)
+pre-requisites Before migrating, please gather all the requirements:</description>
+    </item>
     
     <item>
       <title>Flock to Fedora 2019</title>
@@ -66,15 +77,6 @@ Flock to Fedora is an annual conference for Fedora contributors. Flock follows t
       
       <guid>https://vipul.dev/2018/websiteinfo/</guid>
       <description>Let&amp;rsquo;s discuss vsiddhar.me I have been suggested multiple time to manage a blog, share my stories, events and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now. I have decided to manage this colorless website (Hugo+Coder, as it requires ~no effort). If I am alive and in right sense, I will be putting at least one post every weekmonth.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vipul.dev/1/common_oss_licenses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vipul.dev/1/common_oss_licenses/</guid>
-      <description></description>
     </item>
     
   </channel>

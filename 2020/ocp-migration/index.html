@@ -9,9 +9,9 @@
   
   
   
-  <link rel="prev" href="https://vipul.dev/2018/flock_blog/" />
-  <link rel="next" href="https://vipul.dev/2019/gci_mentors_summit/" />
-  <link rel="canonical" href="https://vipul.dev/2019/fedora_30_release_party/" />
+  <link rel="prev" href="https://vipul.dev/2019/flock_to_fedora_2019/" />
+  
+  <link rel="canonical" href="https://vipul.dev/2020/ocp-migration/" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -22,10 +22,10 @@
   <title>
        
        
-           Fedora 30 Release Party Event Report | SiddharthVipul
+           Migrating jobs to new OCP4 cluster | SiddharthVipul
        
   </title>
-  <meta name="title" content="Fedora 30 Release Party Event Report | SiddharthVipul">
+  <meta name="title" content="Migrating jobs to new OCP4 cluster | SiddharthVipul">
     
   
   <link rel="stylesheet" href="/font/iconfont.css">
@@ -44,20 +44,20 @@
          "@id": "https:\/\/vipul.dev"
     },
     "articleSection" : "posts",
-    "name" : "Fedora 30 Release Party Event Report",
-    "headline" : "Fedora 30 Release Party Event Report",
-    "description" : "Context Celebrating Fedora Release Party is now a custom in Bangalore. This time, although late, we organized it in Red Hat Banglaore Engineering office. We were expecting 30 people to attend the party and we received a fairly good response with ~25 people on and off. Some came for SilverBlue, some to install Fedora 30 and some wanted to know more about the 31 changesets. It was a rather successful event considering it was a working day AND RootConf was at the same $day:time on a different part of city.",
+    "name" : "Migrating jobs to new OCP4 cluster",
+    "headline" : "Migrating jobs to new OCP4 cluster",
+    "description" : "Action If you are currently using apps.ci.centos.org (OCP 3.6), please contact us so that we can create a namespace for you in the new OCP 4.4 cluster for you to start migrating your jobs.\nIf your own a namespace on apps.ci.centos.org There shouldn\x26rsquo;t be a lot of changes for you if you have a project in our older openshift deployment (OCP 3.6)\npre-requisites Before migrating, please gather all the requirements:",
     "inLanguage" : "en-us",
     "author" : "SiddharthVipul",
     "creator" : "SiddharthVipul",
     "publisher": "SiddharthVipul",
     "accountablePerson" : "SiddharthVipul",
     "copyrightHolder" : "SiddharthVipul",
-    "copyrightYear" : "2019",
-    "datePublished": "2019-06-21 00:00:00 \x2b0000 UTC",
-    "dateModified" : "2019-06-21 00:00:00 \x2b0000 UTC",
-    "url" : "https:\/\/vipul.dev\/2019\/fedora_30_release_party\/",
-    "wordCount" : "339",
+    "copyrightYear" : "2020",
+    "datePublished": "2020-07-08 00:00:00 \x2b0000 UTC",
+    "dateModified" : "2020-07-08 00:00:00 \x2b0000 UTC",
+    "url" : "https:\/\/vipul.dev\/2020\/ocp-migration\/",
+    "wordCount" : "278",
     "keywords" : [  "SiddharthVipul"]
 }
 </script>
@@ -109,11 +109,11 @@
       		
 <article class="post-warp" itemscope itemtype="http://schema.org/Article">
     <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">Fedora 30 Release Party Event Report</h1>
+        <h1 class="post-title" itemprop="name headline">Migrating jobs to new OCP4 cluster</h1>
         <div class="post-meta">
                 Written by <a itemprop="name" href="https://vipul.dev" rel="author">SiddharthVipul</a> with ♥ 
                 <span class="post-time">
-                on <time datetime=2019-06-21 itemprop="datePublished">June 21, 2019</time>
+                on <time datetime=2020-07-08 itemprop="datePublished">July 8, 2020</time>
                 </span>
                 in
                 
@@ -135,45 +135,28 @@
           
           
 
-          <h1 id="context">Context</h1>
-<p>Celebrating Fedora Release Party is now a custom in Bangalore. This time,
-although late, we organized it in Red Hat Banglaore Engineering office. We were
-expecting 30 people to attend the party and we received a fairly good response
-with ~25 people on and off. Some came for SilverBlue, some to install Fedora
-30 and some wanted to know more about the 31 changesets. It was a rather
-successful event considering it was a working day AND <strong>RootConf</strong> was at the same <code>$day:time</code> on a
-different part of city. People love RootConf.</p>
-<h1 id="what-happened-in-the-celebration">What happened in the celebration</h1>
+          <h1 id="action">Action</h1>
+<p>If you are currently using apps.ci.centos.org (OCP 3.6), please
+contact us so that we can create a namespace for you in the
+new OCP 4.4 cluster for you to start migrating your jobs.</p>
+<h2 id="if-your-own-a-namespace-on-appscicentosorg">If your own a namespace on apps.ci.centos.org</h2>
+<p>There shouldn&rsquo;t be a lot of changes for you if you have a project in our older openshift deployment (OCP 3.6)</p>
+<h3 id="pre-requisites">pre-requisites</h3>
+<p>Before migrating, please gather all the requirements:</p>
 <ul>
-<li>
-<p>I started the event by discussing <a href="https://fedoraproject.org/wiki/Fedora_30_talking_points">talking points</a> of Fedora 30.
-When I reached changes in security, questions started coming it. Thankfully we
-had a Gluster Engineer who works a lot around libcrypt and he was able to drive
-the discussion into a very productive one.</p>
-</li>
-<li>
-<p><a href="https://fedoraproject.org/wiki/User:Sinnykumari">Sinny</a> spoke and showed demo of SilverBlue. We had so many question it
-lasted for an hour.</p>
-</li>
-<li>
-<p>[Anuj] and I discussed Fedora Summer Coding programs and did an unofficial
-call for mentors in case there is something that they wish for Fedora and
-want to make it a success by taking it on their own. :P (focus on unofficial)</p>
-</li>
+<li>Do you need any special privileges in the namespace</li>
+<li>All the jenkins plugins you need to run your job</li>
+<li>do you need ability to checkout duffy nodes? (if yes, do you already have a duffy API key (just yes/no with the project name))</li>
 </ul>
-<p>Thanks to <a href="https://fedoraproject.org/wiki/User:Bex">Bex</a> for sending us a good amount of Swag that made the participants
-(and me :P) super happy. Followed by swag distribution, we cut the cake (cut by a user who has promised that he will contribute the
-package he is facing issues into by doing update testing).
-Cake, Swag and cherry on top we had burgers for everyone. It was an wonderful
-and a successful event.</p>
-<p>Post food and networking, I showed how to test packages to Digganta (The guy
-who cut the cake).
-We called off the event by 06:00 pm. A good 4 hours of users/contributions
-meeting was amazing to see!</p>
-<p>Thanks to all the participants, and Red Hat Bangalore site managers to  provide
-us the venue and snacks.</p>
-<p><a href="https://fedoraproject.org/wiki/User:Sumantrom">Sumantro</a> was missed.</p>
-<p>A rather short report, now enjoy some pictures <a href="https://photos.app.goo.gl/Lnr78rGmLXiqTBzB9">here</a></p>
+<h3 id="things-we-need-to-create-you-a-namespace-open-a-ticket-with">Things we need to create you a namespace (open a ticket with)</h3>
+<pre><code>namespace name:
+namespace admins:
+ - user1
+ - user2
+</code></pre><p>You will have all the namespace level access and you own/manage pods/services inside it.</p>
+<h2 id="if-your-project-is-on-cicentosorg">If your project is on ci.centos.org</h2>
+<p>Since you are using central jenkins master, your project would see some changes. You will have your own jenkins deployment to run all your jobs instead of having a shared jenkins instance where you don&rsquo;t have admin access. With admin access, you can install all the plugins you need in jenkins, add credentials as it suits you and other abilities.
+This also means there is no direct maintenance from CentOS CI Infra admins as openshift takes care of things dying or crashing (but we will help you get started and are always in reach if you notice any hiccups that&rsquo;s not auto healed). You can have the same workflow or use this opportunity to change your freestyle jobs to pipelines but that&rsquo;s totally on you.</p>
 
     </div>
 
@@ -188,7 +171,7 @@ us the venue and snacks.</p>
              
             <p class="copyright-item">
                     <span>Link:</span>
-                    <a href=https://vipul.dev/2019/fedora_30_release_party/>https://vipul.dev/2019/fedora_30_release_party/</span>
+                    <a href=https://vipul.dev/2020/ocp-migration/>https://vipul.dev/2020/ocp-migration/</span>
             </p>
             
              
@@ -209,10 +192,8 @@ us the venue and snacks.</p>
 
     <div class="post-nav">
         
-        <a href="https://vipul.dev/2018/flock_blog/" class="prev" rel="prev" title="Flock2018"><i class="iconfont icon-left"></i>&nbsp;Flock2018</a>
+        <a href="https://vipul.dev/2019/flock_to_fedora_2019/" class="prev" rel="prev" title="Flock to Fedora 2019"><i class="iconfont icon-left"></i>&nbsp;Flock to Fedora 2019</a>
          
-        
-        <a href="https://vipul.dev/2019/gci_mentors_summit/" class="next" rel="next" title="GCI mentor&#39;s summit @ Google headquarters">GCI mentor&#39;s summit @ Google headquarters&nbsp;<i class="iconfont icon-right"></i></a>
         
     </div>
 
