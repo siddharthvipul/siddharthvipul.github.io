@@ -46,7 +46,7 @@
     "articleSection" : "posts",
     "name" : "Migrating jobs to new OCP4 cluster",
     "headline" : "Migrating jobs to new OCP4 cluster",
-    "description" : "Action If you are currently using apps.ci.centos.org (OCP 3.6), please contact us so that we can create a namespace for you in the new OCP 4.4 cluster for you to start migrating your jobs.\nIf your own a namespace on apps.ci.centos.org There shouldn\x26rsquo;t be a lot of changes for you if you have a project in our older openshift deployment (OCP 3.6)\npre-requisites Before migrating, please gather all the requirements:",
+    "description" : "Action If you are currently using apps.ci.centos.org (OCP 3.6) or have a job running in ci.centos.org, please contact us so that we can create a namespace for you in the new OCP 4.4 cluster for you to start migrating your jobs.\nIf your own a namespace on apps.ci.centos.org There shouldn\x26rsquo;t be a lot of changes for you as you already have a workflow known to openshift and you have configured your jobs once.",
     "inLanguage" : "en-us",
     "author" : "SiddharthVipul",
     "creator" : "SiddharthVipul",
@@ -57,7 +57,7 @@
     "datePublished": "2020-07-08 00:00:00 \x2b0000 UTC",
     "dateModified" : "2020-07-08 00:00:00 \x2b0000 UTC",
     "url" : "https:\/\/vipul.dev\/2020\/ocp-migration\/",
-    "wordCount" : "278",
+    "wordCount" : "558",
     "keywords" : [  "SiddharthVipul"]
 }
 </script>
@@ -136,28 +136,56 @@
           
 
           <h1 id="action">Action</h1>
-<p>If you are currently using apps.ci.centos.org (OCP 3.6), please
-contact us so that we can create a namespace for you in the
-new OCP 4.4 cluster for you to start migrating your jobs.</p>
+<p>If you are currently using apps.ci.centos.org (OCP 3.6) or have a job running in ci.centos.org, please contact us so that we can create a namespace for you in the new OCP 4.4 cluster for you to start migrating your jobs.</p>
 <h2 id="if-your-own-a-namespace-on-appscicentosorg">If your own a namespace on apps.ci.centos.org</h2>
-<p>There shouldn&rsquo;t be a lot of changes for you if you have a project in our older openshift deployment (OCP 3.6)</p>
-<h3 id="pre-requisites">pre-requisites</h3>
-<p>Before migrating, please gather all the requirements:</p>
-<ul>
-<li>Do you need any special privileges in the namespace</li>
-<li>All the jenkins plugins you need to run your job</li>
-<li>do you need ability to checkout duffy nodes? (if yes, do you already have a duffy API key (just yes/no with the project name))</li>
-</ul>
-<h3 id="things-we-need-to-create-you-a-namespace-open-a-ticket-with">Things we need to create you a namespace (open a ticket with)</h3>
-<pre><code>namespace name:
-namespace admins:
- - user1
- - user2
-</code></pre><p>You will have all the namespace level access and you own/manage pods/services inside it.</p>
+<p>There shouldn&rsquo;t be a lot of changes for you as you already have a workflow known to openshift and you have configured your jobs once. While opening a ticket, or reaching out to us please do mention if you need ability to checkout duffy nodes (if yes, do you already have a duffy API key?).</p>
+<p>here is how to open a ticket (link to open a migration ticket)</p>
 <h2 id="if-your-project-is-on-cicentosorg">If your project is on ci.centos.org</h2>
-<p>Since you are using central jenkins master, your project would see some changes. You will have your own jenkins deployment to run all your jobs instead of having a shared jenkins instance where you don&rsquo;t have admin access. With admin access, you can install all the plugins you need in jenkins, add credentials as it suits you and other abilities.
-This also means there is no direct maintenance from CentOS CI Infra admins as openshift takes care of things dying or crashing (but we will help you get started and are always in reach if you notice any hiccups that&rsquo;s not auto healed). You can have the same workflow or use this opportunity to change your freestyle jobs to pipelines but that&rsquo;s totally on you.</p>
+<p>As you are using central jenkins deployment that&rsquo;s not private to you, your project might see some changes. You will have your own jenkins deployment to run all your jobs instead of having a shared jenkins instance where you don&rsquo;t have admin access. With the extra privilage in jenkins, you can add plugins, credentials as you need and a bunch of other abilities.
+This also means there is no direct maintenance required from CentOS CI Infra admins as openshift takes care of things dying or crashing and anything in the jobs config, you can take care of them yourself (We will help you get started and are always in reach if you notice any hiccups that is not auto healed). You can have the same workflow or use this opportunity to change your freestyle jobs to pipelines but that&rsquo;s totally on you.
+here is how to open a ticket (link to open a migration ticket)</p>
+<h3 id="open-a-project-ticket">open a project ticket</h3>
+<ul>
+<li>login to bugs.centos.org</li>
+<li>Select CentOS CI project</li>
+<li>Create an issue with following info (You can also comment in a different field if you prefer your email addresses to be private)</li>
+</ul>
+<pre><code>namespace name:
+namespace admins
+ - user1@email.com // email address used in accounts.centos.org
+ - user2@email.com // email address used in accounts.centos.org
 
+Do you use baremetal nodes for your jobs?: Yes/No
+</code></pre><ul>
+<li>Assign it to <code>siddharthvipul1</code> or <code>dkirwan</code></li>
+</ul>
+<p>We will have your accounts created in 48 hours (if no doubts/followup needed).
+Note: This is only applicable for already existing projects in other places. New projects will have to go through a different process/evaluation and we may need more time.</p>
+<h2 id="setting-up-your-jobs-in-cico-workspace-jenkins">Setting up your jobs in cico-workspace jenkins</h2>
+<p>Configuring your jobs should be similar to your older configuration. You can either have your jobs written in jenkinsfile dialogue box, or source it from your repo (we recommend the later for easy management of jenkinsfile). One thing to point, in groovy, the node parameter type defines where the target job should be executed, the value must match either a label or a node name - otherwise the job will just stay in the queue.
+We have a custom label called <code>cico-workspace</code> that has python-cicoclient installed in it so that you can request duffy nodes. This workspace will also have your duffy-api-key exported so that you can directly request nodes from duffy. Here is an example of jenkins file</p>
+<pre><code>node('cico-workspace') {
+    stage('get cico node') {
+		node = sh(script: &quot;cico node get --release=8&quot;, returnStdout: true).trim().tokenize(' ')
+		env.node_hostname = &quot;${node[0]}.ci.centos.org&quot;
+		env.node_ssid = &quot;${node[1]}&quot;
+	}
+
+    stage('tests-example') {
+        pass
+    }
+
+    stage('builds-example') {
+        pass
+    }
+
+    finally {
+        stage('return bare-metal machine') {
+			sh 'cico node done ${CICO_SSID}'
+        }
+    }
+}
+</code></pre>
     </div>
 
     <div class="post-copyright">

@@ -17,9 +17,8 @@
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vipul.dev/2020/ocp-migration/</guid>
-      <description>Action If you are currently using apps.ci.centos.org (OCP 3.6), please contact us so that we can create a namespace for you in the new OCP 4.4 cluster for you to start migrating your jobs.
-If your own a namespace on apps.ci.centos.org There shouldn&amp;rsquo;t be a lot of changes for you if you have a project in our older openshift deployment (OCP 3.6)
-pre-requisites Before migrating, please gather all the requirements:</description>
+      <description>Action If you are currently using apps.ci.centos.org (OCP 3.6) or have a job running in ci.centos.org, please contact us so that we can create a namespace for you in the new OCP 4.4 cluster for you to start migrating your jobs.
+If your own a namespace on apps.ci.centos.org There shouldn&amp;rsquo;t be a lot of changes for you as you already have a workflow known to openshift and you have configured your jobs once.</description>
     </item>
     
     <item>
