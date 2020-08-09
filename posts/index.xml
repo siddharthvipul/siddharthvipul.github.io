@@ -6,10 +6,20 @@
     <description>Recent content in Posts on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vipul.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My work-from-home setup</title>
+      <link>https://vipul.dev/2020/my_wfh_setup/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vipul.dev/2020/my_wfh_setup/</guid>
+      <description>Before reading ahead, please remember 2 things
+ Being a remote employee, this is my permanent setup. When pandemic is over, I would still be working from home. I have been doing things around my setup for almost 2 years now. I didn&amp;rsquo;t buy all these things at once and it&amp;rsquo;s still far from over.  Whenever we start investing in things/gadjets, after a point (the law of) diminishing returns hits (used to refer to a point at which the level of profits or benefits gained is less than the amount of money or energy invested).</description>
+    </item>
     
     <item>
       <title>Migrating jobs to new OCP4 cluster</title>
