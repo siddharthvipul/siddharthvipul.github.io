@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://vipul.dev/2020/my_wfh_setup/</loc>
+      <loc>https://vipul.dev/2020/fosdem_cfp/</loc>
       
-      <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
       
       
       
@@ -14,7 +14,7 @@
     <url>
       <loc>https://vipul.dev/posts/</loc>
       
-      <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
       
       
       
@@ -23,6 +23,26 @@
   
     <url>
       <loc>https://vipul.dev/</loc>
+      
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://vipul.dev/2020/experimental_september/</loc>
+      
+      <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://vipul.dev/2020/my_wfh_setup/</loc>
       
       <lastmod>2020-08-09T00:00:00+00:00</lastmod>
       

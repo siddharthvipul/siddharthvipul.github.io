@@ -6,10 +6,29 @@
     <description>Recent content in Posts on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vipul.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FOSDEM Call for Proposal</title>
+      <link>https://vipul.dev/2020/fosdem_cfp/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vipul.dev/2020/fosdem_cfp/</guid>
+      <description>We are excited to announce that the call for proposals is now open for the Distribution devroom at the upcoming FOSDEM 2021, to be hosted virtually on February 6th 2021.
+As more and more workloads are being considered for containerization in the future and are finally landing in virtualized environments today, distributions remain a critical success factor and are more important than ever. Containers, like virtual machines, are not magical and rely on piles of software being assembled in a way that is repeatable, reliable, and functional.</description>
+    </item>
+    
+    <item>
+      <title>Experimental September</title>
+      <link>https://vipul.dev/2020/experimental_september/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vipul.dev/2020/experimental_september/</guid>
+      <description>Experimental September For a long time now I have been feeling unproductive. It&amp;rsquo;s not that I think I don&amp;rsquo;t work, just that at the end of the day/week/month, I am not happy with the amount of time I spent in front of Computer vs the amount of tangible work that comes out of it. A few days ago, Sarah Finn (CPE agile coach) reached out to me to discuss the experimental September where I was to decide 8 hours time that suits me the best and close the laptop once that time gets over.</description>
+    </item>
     
     <item>
       <title>My work-from-home setup</title>
