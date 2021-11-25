@@ -6,10 +6,15 @@
     <description>Recent content in Posts on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vipul.dev/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vipul.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intellectual Curiosity curbs</title>
+      <link>https://vipul.dev/2021/intellectual_curiosity_intro/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vipul.dev/2021/intellectual_curiosity_intro/</guid>
+      <description>WTF is Intellectual Curiosity </description>
+    </item>
     
     <item>
       <title>FOSDEM Call for Proposal</title>
