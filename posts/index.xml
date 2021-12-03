@@ -6,22 +6,23 @@
     <description>Recent content in Posts on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vipul.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vipul.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intellectual Curiosity curbs</title>
-      <link>https://vipul.dev/2021/intellectual_curiosity_intro/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <title>FOSDEM 2022 - Distributions Devroom CFP</title>
+      <link>https://vipul.dev/2021/fosdem_cfp_distro_22/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vipul.dev/2021/intellectual_curiosity_intro/</guid>
-      <description>WTF is Intellectual Curiosity </description>
+      <guid>https://vipul.dev/2021/fosdem_cfp_distro_22/</guid>
+      <description>We are excited to announce that the call for proposals is now open for the Distribution devroom at the upcoming FOSDEM 2022, to be hosted virtually on February 6th.
+As more and more workloads are being considered for containerization in the future and are finally landing in virtualized environments today, distributions remain a critical success factor and are more important than ever. Containers, like virtual machines, are not magical and rely on piles of software being assembled in a way that is repeatable, reliable, and functional.</description>
     </item>
     
     <item>
-      <title>FOSDEM Call for Proposal</title>
-      <link>https://vipul.dev/2020/fosdem_cfp/</link>
+      <title>FOSDEM 2021 Distributions Devroom Call for Proposal</title>
+      <link>https://vipul.dev/2020/fosdem_cfp_distro_21/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vipul.dev/2020/fosdem_cfp/</guid>
+      <guid>https://vipul.dev/2020/fosdem_cfp_distro_21/</guid>
       <description>We are excited to announce that the call for proposals is now open for the Distribution devroom at the upcoming FOSDEM 2021, to be hosted virtually on February 6th 2021.
 As more and more workloads are being considered for containerization in the future and are finally landing in virtualized environments today, distributions remain a critical success factor and are more important than ever. Containers, like virtual machines, are not magical and rely on piles of software being assembled in a way that is repeatable, reliable, and functional.</description>
     </item>
