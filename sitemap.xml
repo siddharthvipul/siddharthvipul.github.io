@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://vipul.dev/2021/fosdem_cfp_distro_22/</loc>
+      <loc>https://vipul.dev/2022/fosdem_2022_schedule/</loc>
       
-      <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2022-01-04T00:00:00+00:00</lastmod>
       
       
       
@@ -14,7 +14,7 @@
     <url>
       <loc>https://vipul.dev/posts/</loc>
       
-      <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2022-01-04T00:00:00+00:00</lastmod>
       
       
       
@@ -23,6 +23,16 @@
   
     <url>
       <loc>https://vipul.dev/</loc>
+      
+      <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://vipul.dev/2021/fosdem_cfp_distro_22/</loc>
       
       <lastmod>2021-12-01T00:00:00+00:00</lastmod>
       
